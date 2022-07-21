@@ -14,8 +14,8 @@ export default {
     Phone: {
         title: 'Phone',
         image: Phone,
-        phone1: '09696-994403',
-        phone2: '09696-144654'
+        phone1: '01611-994403',
+        phone2: '01521-744654'
     },
     Email: {
         title: 'Email',

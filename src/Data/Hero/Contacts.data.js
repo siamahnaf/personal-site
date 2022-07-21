@@ -1,4 +1,4 @@
 export default {
-    phone: '+880 9696-994403',
+    phone: '+880 1611-994403',
     email: 'info@siamahnaf.com'
 }
