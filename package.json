@@ -1,0 +1,43 @@
+{
+  "name": "personal-site",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.4.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.6.0",
+    "@fontsource/rubik": "^4.5.0",
+    "@iconify/react": "^3.1.2",
+    "@mui/lab": "^5.0.0-alpha.64",
+    "@mui/material": "^5.2.8",
+    "embla-carousel-class-names": "^6.0.2",
+    "embla-carousel-react": "^6.0.2",
+    "html-react-parser": "^1.4.8",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "mauerwerk": "^2.0.2",
+    "next": "12.0.7",
+    "next-optimized-images": "^2.6.2",
+    "react": "17.0.2",
+    "react-animated-cursor": "^2.2.0",
+    "react-background-slider": "^2.0.0",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.22.5",
+    "react-odometerjs": "^2.1.2",
+    "react-scroll": "^1.8.4",
+    "react-text-loop": "^2.3.0",
+    "react-visibility-sensor": "^5.1.1",
+    "rodal": "^1.8.1",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
