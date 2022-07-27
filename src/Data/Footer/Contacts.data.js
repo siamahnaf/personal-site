@@ -20,8 +20,8 @@ export default {
     Email: {
         title: 'Email',
         image: Envelop,
-        email1: 'info@siamahnaf.com',
-        email2: 'mail@siamahnaf.com'
+        email1: 'mail@siamahnaf.com',
+        email2: 'info@siamahnaf.com'
     },
     Chat: {
         title: 'Chat',
