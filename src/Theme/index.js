@@ -11,7 +11,7 @@ const theme = (mode) => ({
         mode,
         // Primary Color --START
         primary: {
-            main: '#FF9301', // Primary background color
+            main: '#ff650d', // Primary background color #ff9301
             main_light: '#FF93015E', //Main Color But Less Opacity
             dark: '#101130', // Static Dark color
             light: '#ffffff', // Static Light color
