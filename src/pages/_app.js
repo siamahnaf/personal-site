@@ -9,13 +9,6 @@ import theme from 'Theme';
 import createEmotionCache from 'Emotion';
 const clientSideEmotionCache = createEmotionCache();
 
-//Fonts
-import '@fontsource/rubik/300.css';
-import '@fontsource/rubik/400.css';
-import '@fontsource/rubik/500.css';
-import '@fontsource/rubik/600.css';
-import '@fontsource/rubik/700.css';
-
 export default function MyApp(props) {
   const { Component, emotionCache = clientSideEmotionCache, pageProps } = props;
   const { value: isDark } = useDarkMode();
