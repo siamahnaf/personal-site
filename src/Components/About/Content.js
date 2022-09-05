@@ -52,7 +52,7 @@ const Content = () => {
                 <Grid item msm={6} xxs={12}>
                     <Box sx={styles.AboutInfo}>
                         <Typography varaint='body1' component='label'>
-                            Organization:{' '}
+                            IT Farm:{' '}
                         </Typography>
                         <Typography varaint='body1' component='span'>
                             {Contents.freelance}

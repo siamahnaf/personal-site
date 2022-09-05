@@ -8,7 +8,7 @@ const Coworking = () => {
     return (
         <Container sx={{ py: '30px' }} component='section' id='cabbage' disableGutters maxWidth={false}>
             <Typography variant='h6' component='h6' sx={{ mb: '25px' }}>
-                Co-working
+                My Organizations
             </Typography>
             <Cabbage />
             <CodeStation />

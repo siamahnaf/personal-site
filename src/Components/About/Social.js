@@ -34,7 +34,7 @@ const Social = () => {
             </Box>
             <Box sx={styles.AboutContainer}>
                 <Typography varaint='body1' component='p' sx={styles.AboutJob}>
-                    Fullstack Developer
+                    MERN Stack Developer
                 </Typography>
                 <Typography varaint='h5' component='h5' sx={styles.AboutName}>
                     Siam Ahnaf
